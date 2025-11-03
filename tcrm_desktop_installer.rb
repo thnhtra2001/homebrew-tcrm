@@ -1,7 +1,7 @@
 class TcrmDesktopInstaller < Formula
   desc "TCRM Flutter macOS app"
-  homepage "https://github.com/thnhtra2001/tcrm_desktop/releases/download/v1.0.0/tcrm_desktop_installer.tar.gz"
-  url "https://github.com/thnhtra2001/tcrm_desktop/releases/download/v1.0.0/tcrm_desktop_installer.tar.gz"
+  homepage "https://github.com/thnhtra2001/tcrm_desktop/releases/download/v1.0.0/my_flutter_app.tar.gz"
+  url "https://github.com/thnhtra2001/tcrm_desktop/releases/download/v1.0.0/my_flutter_app.tar.gz"
   sha256 "90008c192c89e7029bdd5eeb9a1420f8c1a182cfbc66b6f39d0f838ce916dbed"
   version "1.0.0"
 
